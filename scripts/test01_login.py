@@ -30,8 +30,7 @@ class TestLogin(unittest.TestCase):
         # print(r.status_code)
         assert_common(self,r)
 
-        #
-        #
+
 
 
 
