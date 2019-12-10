@@ -31,8 +31,6 @@ class TestLogin(unittest.TestCase):
         assert_common(self,r)
 
 
-#
-
 
 
 
