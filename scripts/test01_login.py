@@ -27,7 +27,7 @@ class TestLogin(unittest.TestCase):
         # 断言
         print(r.json())
         # status_code 响应码状态
-        print(r.status_code)
+        # print(r.status_code)
         assert_common(self,r)
 
 
