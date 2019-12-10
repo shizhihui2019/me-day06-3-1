@@ -5,7 +5,7 @@ import api
 
 class ApiLogin:
 
-    # 初始化
+    # 初始化呀
     def __init__(self):
         # 初始化url  ---> 调用init里的BASE_URL,导api包
         self.url = api.BASE_URL + "/api/sys/login"
