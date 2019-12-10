@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dce1665f-085d-486e-b90b-6229a6b55b53" name="Default Changelist" comment="" />
+    <list default="true" id="dce1665f-085d-486e-b90b-6229a6b55b53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test01_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test01_login.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/scripts/test01_login.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
               <folding>
                 <element signature="e#5#20#0" expanded="true" />
               </folding>
@@ -294,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575973091979</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="02">
+      <created>1575973336246</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575973336246</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -330,8 +340,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="782" y="0" width="1141" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="782" y="0" width="1141" height="1047" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1532185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -353,13 +362,13 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="02" />
     <MESSAGE value="03" />
     <MESSAGE value="04" />
     <MESSAGE value="05" />
     <MESSAGE value="06" />
     <MESSAGE value="01" />
-    <option name="LAST_COMMIT_MESSAGE" value="01" />
+    <MESSAGE value="02" />
+    <option name="LAST_COMMIT_MESSAGE" value="02" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/case.py">
@@ -476,7 +485,7 @@
     <entry file="file://$PROJECT_DIR$/scripts/test01_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="e#5#20#0" expanded="true" />
           </folding>
