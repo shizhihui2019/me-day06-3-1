@@ -2,7 +2,6 @@ import requests
 
 import api
 
-
 class ApiLogin:
 
     # 初始化
