@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dce1665f-085d-486e-b90b-6229a6b55b53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test01_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test01_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/test01_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="39" />
+            <state relative-caret-position="209">
+              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
                 <element signature="e#5#20#0" expanded="true" />
               </folding>
@@ -275,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575972651373</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="05">
+      <created>1575972699390</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575972699390</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -311,8 +319,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="782" y="0" width="1141" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="782" y="0" width="1141" height="1047" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1532185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -338,7 +345,8 @@
     <MESSAGE value="02" />
     <MESSAGE value="03" />
     <MESSAGE value="04" />
-    <option name="LAST_COMMIT_MESSAGE" value="04" />
+    <MESSAGE value="05" />
+    <option name="LAST_COMMIT_MESSAGE" value="05" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/case.py">
@@ -454,8 +462,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/test01_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="39" />
+        <state relative-caret-position="209">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
             <element signature="e#5#20#0" expanded="true" />
           </folding>
